@@ -14,7 +14,7 @@ A comprehensive dashboard analyzing sales performance for a fictional supermarke
 - Regional performance analysis
 - Profit margin insights
 
-📄 [View PDF]
+📄 View PDF<a href="https://github.com/Anjumvarghese/PowerBI/blob/main/JSMart%20Dashboard%20Project.pdf"> Mart Dashbaord
 
 ---
 
@@ -28,17 +28,17 @@ An interactive report exploring customer behavior, banking product usage, and ac
 - Product penetration by region
 - Account balance trends
 
-📄 [View PDF]
+📄 View PDF<a href="https://github.com/Anjumvarghese/PowerBI/blob/main/JS%20Bank%20Dashboard.pdf"> Bank Dashboard
 
 ---
 
 ## 🏍️ 3. Motorbike Sales Dashboard
 
 **Overview:**
-A sales performance dashboard for a motorbike dealership, designed to track trends and support decision-making.
+A sales performance dashboard for a motorbike dealership, showing highest sales done by salesperson for respective region.
 
 **Key Features:**
 - Salesperson and branch-level performance
 
 
-📄 [View PDF]
+📄 View PDF<a href="https://github.com/Anjumvarghese/PowerBI/blob/main/MotorbikeSales.pdf"> Sales Dashboard
